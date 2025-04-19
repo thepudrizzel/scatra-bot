@@ -1,0 +1,30 @@
+{
+  "translation": {
+   "botinfo": {
+    "name": "bot-info",
+    "description": "View the bot's information.",
+    "title": "{{botName}}'s Statistics"
+   },
+   "userinfo": {
+    "name": "user-info",
+    "description": "View information about a user."
+   },
+   "welcome": {
+    "name": "welcome",
+    "description": "Everything related to the welcome and counter system.",
+    "title": "Welcome & Counter System",
+    "channel_goal": "Channel and Member Goal",
+    "channel_goal_desc": "Set a total count for your server",
+    "disable": "Disable System",
+    "disable_desc": "Turn off the configured counter system",
+    "autorole": "Auto Role",
+    "autorole_desc": "Set an automatic role for new members",
+    "autorole_disable": "Disable Auto Role",
+    "autorole_disable_desc": "Turn off the automatic role assignment",
+    "autorole_question": "Does it assign auto roles?",
+    "autorole_answer": "To assign a role to users joining your server, you need to set up:",
+    "success": "Successfully configured!",
+    "error": "An error occurred while configuring the system."
+   }
+  }
+}

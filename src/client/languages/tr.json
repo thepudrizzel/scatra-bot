@@ -1,0 +1,30 @@
+{
+  "translation": {
+   "botinfo": {
+    "name": "bot-bilgi",
+    "description": "Bot bilgilerini görüntülersiniz.",
+    "title": "{{botName}} İstatistikleri"
+   },
+   "userinfo": {
+    "name": "kullanıcı-bilgi",
+    "description": "Bir kullanıcı hakkında bilgi görüntülersiniz."
+   },
+   "welcome": {
+    "name": "sayac",
+    "description": "Sayaç sistemiyle alakalı herşey burada.",
+    "title": "Giriş & Sayaç Sistemi",
+    "channel_goal": "Kanal ve üye hedefi",
+    "channel_goal_desc": "Sunucun için toplam bir rakam tut",
+    "disable": "Sistemi Kapat",
+    "disable_desc": "Kurulu olan sayaç sistemi kapatır",
+    "autorole": "Otorol",
+    "autorole_desc": "Yeni üyelere otomatik rol verir",
+    "autorole_disable": "Otorol Kapat",
+    "autorole_disable_desc": "Otomatik rol verme sistemini kapatır",
+    "autorole_question": "Auto rol verir mi?",
+    "autorole_answer": "Sunucunuza giren kullanıcıya vermesi için ayarlamalısın:",
+    "success": "Başarıyla ayarlandı!",
+    "error": "Sistem ayarlanırken bir hata oluştu."
+   }
+  }
+}

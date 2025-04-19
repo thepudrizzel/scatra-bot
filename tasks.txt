@@ -1,0 +1,23 @@
+- Aşırı gelişmiş log sistemi getiricem böyle değişik antin kuntin şeyler bu log sisteminde olucak görün
+
+- Baya detaylandırılmış bir ticket sistemi yapmayı planlıyorum sizi hiç yormadan gereken her işi yapabilecek bir ticket sistemi planlıyorum bakalım görücez
+
+- couple sesler olucak ve o couple seslerine modları olacak uyku modu eğlence modu vs gibi işte sen uyandığında buttona basıcan o da senin uyandığını ona dmden yazıcak 
+falan eğlenceden kastım şu şekilde ses kanalında sohbet özelliğinde birlikte oyun oynayabilme.
+
+- Anonim sohbet sistemi yapıcam, eskiden böyle bir kaç bot vardı ama bir elimin parmak sayısını geçmezdi o ama şuan yoklar diye biliyorum o yüzden onu da kendi botuma 
+eklemekte kararlıyım
+
+- Kendi yaptığım sosyal medya sistemi ile e posta oluşturup ve şifre oluşturup kayıt olabiliceksiniz extra olarakta 2ad getiricem ona 5 haneli kod ile discord botumda bu 
+olucak, NET!
+
+- Tycoon oyunları getiricem sizi de anlıyorum artık klasik dc botlarındaki yılan oyunlarından taş kağıt makas oyunlarından sıkıldığınızı ve sizin için uğraşıp bu 
+sistemi de bota eklicem
+
+- Dil sistemli kitaplar çıkartıcam Canvas modülü ile ve istediğiniz türden kitabı seçip sayfaları buttonlarla geçip okuyabiliceksiniz hemde ücretsiz bir şekilde
+
+- Yapay zekalı videoların metinin çıkartma: Yani youtube videosu var adam konuşuyor örnek veriyorum adam prompt'u vererek adamın istediği sesin textini vericez.
+
+- Gitcord: githubdaki profilleri ve projeleri bir sisteme eklicez yani /gitcord [aradığı şey](örnek: djs-v14) yazınca https://github.com/search?q=djs-v14&type=repositories linkinin canvas halini yazıcak yapay zeka ve select menulerden ve buttonlardan burdakileri sıralicak ve istediğine tıklayıp zip halinde github apisiyle indirmesini sağlicaz.
+
+- Sunucu kur sistemi fakat tamamen kullanıcıya bırakıcaz işte şuraya şu bu şu eklensin mi istediğin tarzlar nedir kanallar ve roller emojili olsun mu vesaire sorucaz başta ondan sonra sunucuyu kurucak ancak kurmadan önce emin misin bak böyle olacak sunucu diyip canvasla yaptığı kanalların kategorilerin ve rollerin canvası gözükecek.

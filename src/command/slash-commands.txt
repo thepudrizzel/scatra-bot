@@ -1,0 +1,40 @@
+const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, version } = require('discord.js');
+const color_config = require('../../../client/config/color_config.json')
+const staff_config = require('../../../client/config/staff_config.json')
+const { t } = require('../../../client/languages/i18n');
+
+module.exports.execute = async(client, interaction) => {
+    let userLang = 'en';
+    if (interaction.locale === 'tr') {
+        userLang = 'tr';
+    } else if (interaction.locale === 'ru') {
+        userLang = 'ru';
+    }
+    
+    try {
+            
+        if (userLang === 'tr') {
+        } else if (userLang === 'ru') {
+        } else {
+        }
+        
+    } catch (err) {
+        console.error(err);
+    }
+},
+
+module.exports.config = {
+    name: t("", { lng: 'en' }),
+    description: t("", { lng: 'en' }),
+    name_localizations: {
+        'tr': t("", { lng: 'tr' }),
+        'ru': t("", { lng: 'ru' })
+    },
+    description_localizations: {
+        'tr': t("", { lng: 'tr' }),
+        'ru': t("", { lng: 'ru' })
+    },
+    cooldown: 20,
+    required_bot_permissions: ["ManageMessages"],
+    options: []
+}
